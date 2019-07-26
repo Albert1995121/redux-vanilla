@@ -1,0 +1,10 @@
+.productCart{
+  margin:20px;
+  width: 250px;
+  height: 100%;
+  outline-color: black;
+  outline: 2px;
+  outline-style: solid;
+  padding: 1%;
+  font-family: 'Courier New', Courier, monospace
+}
